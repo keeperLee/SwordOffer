@@ -8,6 +8,8 @@
 
 #### [04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) 2020-4-13
 
+#### [05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) 2020-4-14
+
 #### [55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) 2020-4-13
 
 #### [55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) 2020-4-13
