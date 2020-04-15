@@ -12,6 +12,8 @@
 
 #### [06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) 2020-4-14
 
+#### [24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) 2020-4-15
+
 #### [55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) 2020-4-13
 
 #### [55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) 2020-4-13
