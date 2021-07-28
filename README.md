@@ -1,7 +1,5 @@
 # SwordOffer
 
-立项监督自己，从今天(2020年4月13日)起，每天至少刷一题，刷多了不能分摊到其他的日子。做到每日刷题！
-
 ### Part-One 题目列表
 
 ####  [03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) 2020-4-13
